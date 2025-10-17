@@ -25,7 +25,7 @@ Lightweight static web app that shows the current time and date, lets users pick
 ## Preview 
 Wanna see Live, Click Here(👇)
 
-- **[Ramadan Special Website ]()**
+- **[Ramadan Special Website ](https://haseebjaved4212.github.io/Ramadan-Special-Website/)**
 ## How to run (development)
 
 1. Clone or copy the project files to a local folder.
