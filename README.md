@@ -86,7 +86,7 @@ The following are current implementation notes and bugs found in [script.js](scr
 
 ## License
 
-- Add a license file if you plan to publish. Currently no license file is included.
+- This Project is open source and available for Educational Purpose.
 
 ---
 
@@ -106,3 +106,4 @@ Key functions in code:
 - [`searchCity`](script.js)
 
 ---
+<div align="center">Made with ❤️  by Haseeb Javed </div>
