@@ -9,7 +9,7 @@ Lightweight static web app that shows the current time and date, lets users pick
 - [script.js](script.js) — application logic (clock, UI interactions, API calls).
 - [Images/](Images/) — background and logo images used by the UI.
 
-## Features
+##  ✨ Features
 
 - Analog and electronic clocks (live update).
   - See [`getHourElec`](script.js) for the electronic clock rendering and [`hr` / `mn` / `sc` rotation logic](script.js).
@@ -21,6 +21,11 @@ Lightweight static web app that shows the current time and date, lets users pick
 - Search/filter for country and city lists: [`searchCountry`](script.js) and [`searchCity`](script.js).
 - Mobile responsive navigation and sections (home / place / prayer-times / contact).
 
+---
+## Preview 
+Wanna see Live, Click Here(👇)
+
+- **[Ramadan Special Website ]()**
 ## How to run (development)
 
 1. Clone or copy the project files to a local folder.
